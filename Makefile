@@ -8,6 +8,6 @@ borrar:
 	rm $(p1).o
 	rm $(p1)
 git:
-	git add .
-	git commit -m 'anything'
+	git add $(p1)
+	git commit -m "$(p2)"
 	git push
