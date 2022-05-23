@@ -6,7 +6,6 @@ compilargcc:
 	gcc -o $(p1) $(p1).o
 borrar:
 	rm $(p1).o
-	rm $(p1)
 git:
 	git add $(p1)
 	git commit -m "$(p2)"
