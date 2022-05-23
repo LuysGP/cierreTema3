@@ -1,6 +1,6 @@
 # Cierre Tema 3
 
-> Archivos .s usados para la practica.
+> # Archivos .s usados para la practica.
 
 - greet
 - macros
@@ -12,8 +12,8 @@
 - sum3
 - sum4
 
-> Makefile usado para la compilación de los programas como también para el proceso de eliminación y subida al repositorio en línea.
-![image](https://user-images.githubusercontent.com/82748051/169910800-75049151-2413-4258-8e9f-12286ee83d56.png)
+> # Makefile
+![image](https://user-images.githubusercontent.com/82748051/169911394-daa623f7-1542-4dc4-8fe5-05ce39f7112c.png)
 
 # Greet
 ![image](https://user-images.githubusercontent.com/82748051/169909902-01648605-26b2-4639-9c78-68adbf83d9f7.png)
